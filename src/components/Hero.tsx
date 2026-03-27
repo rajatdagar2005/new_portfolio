@@ -42,8 +42,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 1 }}
           className="max-w-xl mx-auto text-lg md:text-xl text-white/60 font-light leading-relaxed mb-12"
         >
-          Crafting immersive digital experiences through code. 
-          Specializing in Flutter and modern web technologies.
+          Crafting immersive digital experiences through code.
         </motion.p>
 
         <motion.div
