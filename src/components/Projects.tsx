@@ -25,14 +25,14 @@ const projects = [
   },
   {
     title: "VisionPro AI",
-    category: "Computer Vision • AI",
+    category: "Kotlin • AI • MLKit",
     image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2070&auto=format&fit=crop",
     description: "An advanced face detection system leveraging computer vision to identify and track facial features in real-time with high precision.",
     github: "https://github.com/rajatdagar2005/FaceDetection"
   },
   {
     title: "SkyCast",
-    category: "Flutter • Weather API",
+    category: "Kotlin • Weather API",
     image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=2070&auto=format&fit=crop",
     description: "A feature-rich weather forecasting app providing accurate real-time data, interactive maps, and localized weather alerts.",
     github: "https://github.com/rajatdagar2005/MyWeatherApp"
