@@ -4,44 +4,44 @@ import { ExternalLink, Github } from 'lucide-react';
 const projects = [
   {
     title: "CardioGuard AI",
-    category: "Deep Learning • CNN-BiLSTM",
+    category: "Deep Learning • CNN-BiLSTM • Healthcare AI • Signal Processing",
     image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=2070&auto=format&fit=crop",
-    description: "Deep learning–based atrial fibrillation detection system using a CNN-BiLSTM architecture trained on the MIT-BIH Atrial Fibrillation Database (PhysioNet).",
+    description: "An intelligent healthcare system for detecting atrial fibrillation from ECG signals using a hybrid CNN-BiLSTM architecture. Trained on the MIT-BIH AFDB dataset (PhysioNet), the model captures both spatial and temporal patterns, achieving high accuracy in real-time cardiac anomaly detection.",
     github: "https://github.com/rajatdagar2005/AFib-Detection-from-ECG-Signals-using-CNN-BiLSTM-MIT-BIH-AFDB-"
   },
   {
     title: "NewsSphere",
-    category: "Flutter • REST APIs",
+    category: "Flutter • REST APIs • State Management • Real-Time Data",
     image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=2070&auto=format&fit=crop",
-    description: "A modern news aggregation application built with Flutter, featuring real-time updates, category filtering, and optimized data fetching.",
+    description: "A scalable news aggregation app built using Flutter that delivers real-time news updates from multiple sources via REST APIs. Features category-based filtering, optimized API calls, and a responsive UI for seamless cross-device performance.",
     github: "https://github.com/rajatdagar2005/DailyPress"
   },
   {
     title: "GourmetGuide",
-    category: "Flutter • Mobile Development",
+    category: "Flutter • API Integration • UI/UX • Mobile App Development",
     image: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=2070&auto=format&fit=crop",
-    description: "A comprehensive recipe discovery app that allows users to search, filter, and save their favorite dishes using a robust external API.",
+    description: "A feature-rich recipe discovery application that integrates external APIs to provide dynamic food recommendations. Includes advanced search, filtering, and bookmarking functionality with a clean and intuitive user interface.",
     github: "https://github.com/rajatdagar2005/Recipe-Finder-App"
   },
   {
     title: "VisionPro AI",
-    category: "Kotlin • AI • MLKit",
+    category: "Kotlin • Computer Vision • ML Kit • Real-Time Detection",
     image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2070&auto=format&fit=crop",
-    description: "An advanced face detection system leveraging computer vision to identify and track facial features in real-time with high precision.",
+    description: "A real-time face detection and tracking system built using Kotlin and ML Kit. Capable of identifying facial features with high precision, optimized for performance on mobile devices using efficient vision processing techniques.",
     github: "https://github.com/rajatdagar2005/FaceDetection"
   },
   {
     title: "SkyCast",
-    category: "Kotlin • Weather API",
+    category: "Kotlin • Weather API • Location Services • Android Development",
     image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=2070&auto=format&fit=crop",
-    description: "A feature-rich weather forecasting app providing accurate real-time data, interactive maps, and localized weather alerts.",
+    description: "A modern weather forecasting app that provides real-time weather updates using API integration and location services. Includes dynamic UI updates, detailed forecasts, and location-based alerts for enhanced user experience.",
     github: "https://github.com/rajatdagar2005/MyWeatherApp"
   },
   {
     title: "MarketPulse",
-    category: "Data Analysis • Python",
+    category: "Python • Data Analysis • Machine Learning • Data Visualization",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
-    description: "A data-driven analysis tool for identifying customer trends and consumer behavior patterns using Python and advanced statistical models.",
+    description: "A data analytics project focused on extracting actionable insights from customer datasets using Python. Implements statistical analysis, data preprocessing, and visualization techniques to identify trends and support data-driven decision making.",
     github: "https://github.com/rajatdagar2005/Customer-Trends-Data-Analysis"
   }
 ];
