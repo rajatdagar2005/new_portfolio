@@ -26,7 +26,7 @@ const projects = [
   {
     title: "VisionPro AI",
     category: "Kotlin • Computer Vision • ML Kit • Real-Time Detection",
-    image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1753952253421-3f4bcdd697ee?q=80&w=2070&auto=format&fit=crop",
     description: "A real-time face detection and tracking system built using Kotlin and ML Kit. Capable of identifying facial features with high precision, optimized for performance on mobile devices using efficient vision processing techniques.",
     github: "https://github.com/rajatdagar2005/FaceDetection"
   },
