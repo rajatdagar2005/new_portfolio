@@ -21,7 +21,7 @@ const projects = [
   {
     title: "GraphLink",
     category: "Java • Data Structures & Algorithms • Graph Theory • Visualization",
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop",
     description: "A graph visualization and analysis platform designed to demonstrate graph algorithms interactively. Supports graph creation, traversal, shortest path computation, and network analysis, providing an intuitive way to understand complex graph structures.",
     github: "https://github.com/rajatdagar2005/GraphLink"
   },
