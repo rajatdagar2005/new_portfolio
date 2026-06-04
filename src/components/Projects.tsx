@@ -3,12 +3,29 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
+    title: "SpendSense AI",
+    category: "Kotlin • Jetpack Compose • AI Integration • Expense Tracking",
+    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2070&auto=format&fit=crop",
+    description: "An AI-powered personal finance management app built with Jetpack Compose. Features expense tracking, spending analytics, category-wise insights, interactive charts, and AI-generated financial recommendations to help users manage their finances effectively.",
+    github: "https://github.com/rajatdagar2005/SpendSenseAi"
+  },
+
+  {
     title: "CardioGuard AI",
     category: "Deep Learning • CNN-BiLSTM • Healthcare AI • Signal Processing",
     image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=2070&auto=format&fit=crop",
     description: "An intelligent healthcare system for detecting atrial fibrillation from ECG signals using a hybrid CNN-BiLSTM architecture. Trained on the MIT-BIH AFDB dataset (PhysioNet), the model captures both spatial and temporal patterns, achieving high accuracy in real-time cardiac anomaly detection.",
     github: "https://github.com/rajatdagar2005/AFib-Detection-from-ECG-Signals-using-CNN-BiLSTM-MIT-BIH-AFDB-"
   },
+
+  {
+    title: "GraphLink",
+    category: "Java • Data Structures & Algorithms • Graph Theory • Visualization",
+    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop",
+    description: "A graph visualization and analysis platform designed to demonstrate graph algorithms interactively. Supports graph creation, traversal, shortest path computation, and network analysis, providing an intuitive way to understand complex graph structures.",
+    github: "https://github.com/rajatdagar2005/GraphLink"
+  },
+
   {
     title: "NewsSphere",
     category: "Flutter • REST APIs • State Management • Real-Time Data",
@@ -16,13 +33,7 @@ const projects = [
     description: "A scalable news aggregation app built using Flutter that delivers real-time news updates from multiple sources via REST APIs. Features category-based filtering, optimized API calls, and a responsive UI for seamless cross-device performance.",
     github: "https://github.com/rajatdagar2005/DailyPress"
   },
-  {
-    title: "GourmetGuide",
-    category: "Flutter • API Integration • UI/UX • Mobile App Development",
-    image: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=2070&auto=format&fit=crop",
-    description: "A feature-rich recipe discovery application that integrates external APIs to provide dynamic food recommendations. Includes advanced search, filtering, and bookmarking functionality with a clean and intuitive user interface.",
-    github: "https://github.com/rajatdagar2005/Recipe-Finder-App"
-  },
+
   {
     title: "VisionPro AI",
     category: "Kotlin • Computer Vision • ML Kit • Real-Time Detection",
@@ -30,6 +41,7 @@ const projects = [
     description: "A real-time face detection and tracking system built using Kotlin and ML Kit. Capable of identifying facial features with high precision, optimized for performance on mobile devices using efficient vision processing techniques.",
     github: "https://github.com/rajatdagar2005/FaceDetection"
   },
+
   {
     title: "SkyCast",
     category: "Kotlin • Weather API • Location Services • Android Development",
@@ -37,6 +49,15 @@ const projects = [
     description: "A modern weather forecasting app that provides real-time weather updates using API integration and location services. Includes dynamic UI updates, detailed forecasts, and location-based alerts for enhanced user experience.",
     github: "https://github.com/rajatdagar2005/MyWeatherApp"
   },
+
+  {
+    title: "GourmetGuide",
+    category: "Flutter • API Integration • UI/UX • Mobile App Development",
+    image: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=2070&auto=format&fit=crop",
+    description: "A feature-rich recipe discovery application that integrates external APIs to provide dynamic food recommendations. Includes advanced search, filtering, and bookmarking functionality with a clean and intuitive user interface.",
+    github: "https://github.com/rajatdagar2005/Recipe-Finder-App"
+  },
+
   {
     title: "MarketPulse",
     category: "Python • Data Analysis • Machine Learning • Data Visualization",
@@ -45,7 +66,6 @@ const projects = [
     github: "https://github.com/rajatdagar2005/Customer-Trends-Data-Analysis"
   }
 ];
-
 export default function Projects() {
   return (
     <section id="projects" className="py-32 px-6 max-w-7xl mx-auto">
