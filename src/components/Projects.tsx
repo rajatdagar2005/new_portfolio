@@ -12,7 +12,7 @@ const projects = [
   {
     title: "LinkForge",
     category: "Node.js • React • MongoDB • REST API • Full Stack",
-    image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=2070&auto=format&fit=crop",
     description: "A full-stack URL shortening platform built with React and Node.js. Provides short-link generation, URL redirection, persistent storage with MongoDB Atlas, and a responsive interface for efficiently managing and sharing shortened URLs.",
     github: "https\://github.com/rajatdagar2005/URL-Shortner"
   },
