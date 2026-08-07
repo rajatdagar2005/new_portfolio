@@ -92,34 +92,6 @@ export default function Navbar() {
           </svg>
         </a>
 
-        {/* LeetCode */}
-        <a
-          href="https://leetcode.com/u/rajatdagar_05/"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="LeetCode"
-          className="text-white/60 hover:text-white transition-colors duration-300"
-        >
-          <svg
-            width="20"
-            height="20"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path d="M13.483 0a1.2 1.2 0 0 0-.86.36L2.84 10.143
-             a3.8 3.8 0 0 0 0 5.37l5.65 5.65a3.8 3.8 0 0 0
-              5.37 0l2.1-2.1-1.7-1.7-2.1 2.1a1.4 1.4 0 0 1-1.97
-              0l-5.65-5.65a1.4 1.4 0 0 1 0-1.97l9.78-9.78
-             a1.2 1.2 0 0 0-.83-2.06Z" />
-            <path d="M15.3 8.1a1.2 1.2 0 0 0 0 2.4h6.5a1.2
-              1.2 0 1 0 0-2.4h-6.5Z" />
-            <path d="M12.1 4.4a1.2 1.2 0 0 0-.85.35L8.8 7.2
-             a1.2 1.2 0 1 0 1.7 1.7l2.45-2.45a1.2 1.2 0 0 0
-             -.85-2.05Z" />
-          </svg>
-        </a>
-
         {/* GitHub */}
         <a
           href="https://github.com/rajatdagar2005"
