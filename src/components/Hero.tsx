@@ -33,7 +33,7 @@ export default function Hero() {
           transition={{ duration: 1.2, delay: 0.7 }}
           className="text-7xl md:text-9xl font-serif font-bold tracking-tighter mb-8"
         >
-          Rajat <span className="italic text-white/20">Dagar</span>
+          Rajat <span>Dagar</span>
         </motion.h2>
 
         <motion.p
