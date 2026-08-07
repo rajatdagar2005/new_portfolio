@@ -3,6 +3,20 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
+    title: "NetForge",
+    category: "Python • HTTP • Socket Programming • REST API • Multithreading",
+    image: "[https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2070&auto=format&fit=crop](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80\&w=2070\&auto=format\&fit=crop)",
+    description: "A custom HTTP server and REST API built from scratch using Python socket programming and multithreading. Implements HTTP request parsing, modular routing, concurrent client handling, and RESTful user management endpoints without relying on high-level web server frameworks.",
+    github: "https\://github.com/rajatdagar2005/custom-HTTP-server-and-Rest-API"
+  },
+  {
+    title: "LinkForge",
+    category: "Node.js • React • MongoDB • REST API • Full Stack",
+    image: "[https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80\&w=2070\&auto=format\&fit=crop)",
+    description: "A full-stack URL shortening platform built with React and Node.js. Provides short-link generation, URL redirection, persistent storage with MongoDB Atlas, and a responsive interface for efficiently managing and sharing shortened URLs.",
+    github: "https\://github.com/rajatdagar2005/URL-Shortner"
+  },
+  {
     title: "SpendSense AI",
     category: "Kotlin • Jetpack Compose • AI Integration • Expense Tracking",
     image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2070&auto=format&fit=crop",
