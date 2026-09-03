@@ -5,7 +5,7 @@ const projects = [
   {
     title: "StockPulse",
     category: "React • Node.js • PostgreSQL • JWT • REST API • Full Stack",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
     description: "A full-stack inventory intelligence platform for small businesses that analyzes sales history, current stock, safety stock, and supplier lead time to identify low-stock and dead-stock products and generate data-driven reorder recommendations. Includes multi-tenant authentication, supplier management, sales tracking, purchase orders, and transactional inventory updates.",
     github: "https://github.com/rajatdagar2005/stockpulse"
   },
