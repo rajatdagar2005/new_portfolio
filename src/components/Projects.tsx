@@ -3,6 +3,13 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
+    title: "StockPulse",
+    category: "React • Node.js • PostgreSQL • JWT • REST API • Full Stack",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=2070&auto=format&fit=crop",
+    description: "A full-stack inventory intelligence platform for small businesses that analyzes sales history, current stock, safety stock, and supplier lead time to identify low-stock and dead-stock products and generate data-driven reorder recommendations. Includes multi-tenant authentication, supplier management, sales tracking, purchase orders, and transactional inventory updates.",
+    github: "https://github.com/rajatdagar2005/stockpulse"
+  },
+  {
   title: "SocketCore",
   category: "Python • HTTP • Socket Programming • REST API • Multithreading",
   image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2070&auto=format&fit=crop",
@@ -14,7 +21,7 @@ const projects = [
     category: "Node.js • React • MongoDB • REST API • Full Stack",
     image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=2070&auto=format&fit=crop",
     description: "A full-stack URL shortening platform built with React and Node.js. Provides short-link generation, URL redirection, persistent storage with MongoDB Atlas, and a responsive interface for efficiently managing and sharing shortened URLs.",
-    github: "https\://github.com/rajatdagar2005/URL-Shortner"
+    github: "https://github.com/rajatdagar2005/URL-Shortner"
   },
   {
     title: "SpendSense AI",
