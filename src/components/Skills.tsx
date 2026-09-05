@@ -220,7 +220,7 @@ import { motion } from "motion/react";
 const skills = [
   {
     name: "Java",
-    logo: "https://cdn.simpleicons.org/openjdk",
+    logo: "https://www.oracle.com/a/ocom/img/obic-java-cup.svg",
   },
   {
     name: "Kotlin",
